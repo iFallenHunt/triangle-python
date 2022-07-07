@@ -1,5 +1,5 @@
 area = int
-base = int(input('Enter the vase of the trinagle: '))
+base = int(input('Enter the base of the trinagle: '))
 height = int(input('Enter the height of the triangle: '))
 
 area = base * height / 2 
